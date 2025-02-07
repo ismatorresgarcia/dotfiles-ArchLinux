@@ -1,6 +1,6 @@
 # Configuration files for Arch Linux
 
-This is my `.config` directory, stored on GitHub as a backup of my local configuration on **Arch Linux** dstribution. **Please use it with caution**, as improper use can potentially disrupt the configuration of your local machine. The installation process involves cloning the entire repository into your home directory and creating symbolic links to various locations where the programs are supposed to be.
+This is my `.config` directory, stored on GitHub as a backup of my local configuration on Arch Linux. **Please use it with caution**, as improper use can potentially disrupt the configuration of your local machine. The installation process involves cloning the entire repository into your home directory and creating symbolic links to various locations where the programs are supposed to be.
 
 > **_NOTE:_** If requested, I may create an `install.sh` script in the future, which will automate this process by simply executing a command from your terminal while in the home directory.
 
